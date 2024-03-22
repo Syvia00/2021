@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demolition.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-22T09:37:45" hostname="PHZdeAir.modem" time="0.061">
+  <properties/>
+  <testcase name="simpleTest()" classname="demolition.SampleTest" time="0.061"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
